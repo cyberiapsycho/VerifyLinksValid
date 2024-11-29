@@ -1,4 +1,4 @@
-# VerifyLinksValid
+# VerifyLinksValidity
 
 A simple tool to check the links’ validity status.
 
